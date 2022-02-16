@@ -1,0 +1,1 @@
+This is my first directory in repository alx-pre_course
